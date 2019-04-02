@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLServerDatabase", "SQLServerDatabase\SQLServerDatabase.sqlproj", "{F6A40CED-3679-48ED-9BA9-073A4B48CAD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEFWeekly", "ApiEFWeekly\ApiEFWeekly.csproj", "{C932F39E-7246-47A8-AE32-D436B77C88F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{F6A40CED-3679-48ED-9BA9-073A4B48CAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A40CED-3679-48ED-9BA9-073A4B48CAD3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F6A40CED-3679-48ED-9BA9-073A4B48CAD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C932F39E-7246-47A8-AE32-D436B77C88F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C932F39E-7246-47A8-AE32-D436B77C88F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C932F39E-7246-47A8-AE32-D436B77C88F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C932F39E-7246-47A8-AE32-D436B77C88F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

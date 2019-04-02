@@ -19,7 +19,7 @@ DELETE FROM Student;
 DELETE FROM Book;
 
 
-INSERT INTO Student(StudentId, FirstName, LastName, Email, Mobile) VALUES 
+INSERT INTO Student(StudentId, FirstName, LastName, Email, PhoneNumber) VALUES 
 ('s12345678', 'Fred', 'Flintstone', '12345678@student.swin.edu.au', '0400555111'),
 ('s23456789', 'Barney', 'Rubble', '23456789@student.swin.edu.au', '0400555222'),
 ('s34567890', 'Bam-Bam', 'Rubble', '34567890@student.swin.edu.au', '0400555333');
